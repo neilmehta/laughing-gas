@@ -1,5 +1,5 @@
 # laughing-gas
-  // , It's a gas! 
+  // , It's a gasolin! 
 
 Gassing up your life! 
 
